@@ -1,2 +1,2 @@
-source 'http://rubygems.com'
-gem 'sinatora'
+source :rubyforge
+gem 'sinatra'
